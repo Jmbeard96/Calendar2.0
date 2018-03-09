@@ -1,0 +1,5 @@
+name: Calendar
+main: me.jmbeard96.Calendar.Main
+version: 1.0
+author: Jeremy Beard
+description: Gets time
